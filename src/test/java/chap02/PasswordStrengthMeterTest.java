@@ -12,7 +12,6 @@ public class PasswordStrengthMeterTest {
         assertEquals(expStr, result);
     }
 
-
     @Test
     void name() {
 
